@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 9: expected expression
+    define Alma =
+                 ^
+
+File "game/script.rpy", line 10: expected expression
+    define Arleth =
+                   ^
+
+Ren'Py Version: Ren'Py 7.5.0.187n
+Thu Dec 16 22:53:09 2021
